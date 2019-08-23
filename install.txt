@@ -1,0 +1,1 @@
+To install simply add this theme to cairo-dock in the configuration -> themes window by drag&drop or manualy inserting it.
